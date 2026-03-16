@@ -2,7 +2,7 @@
 
 
 
-This is a module for the FoundryVTT to import Draw Steel monsters from the MCDM Heroes pdf.
+This is a module for the FoundryVTT to import Draw Steel Items from the MCDM Heroes pdf.
 
 
 
@@ -21,8 +21,4 @@ When you go to the "Create Item" tab, there should be an "Import Draw Steel Item
 More functionality will be coming in the future, at the moment (see "not yet implemented" next to some choices)
 
 PLEASE NOTE: There are some limitations to how well the parser is able to differentiate splits between entries.  This is especially true with the leveled treasures at the moment.  You may need to either import some individually once you see which ones don't work well, deleting the wrongly created files.  You may also need to manually input some of the Details fields.
-
-
-
-
 
