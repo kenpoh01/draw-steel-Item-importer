@@ -4,7 +4,7 @@
 
 This is a module for the FoundryVTT to import Draw Steel items from the MCDM Heroes pdf.
 
-
+Please note that A.I. in the form of Copilot and ChatGPT were used to help with the coding of this module.
 
 The Draw Steel System for Foundry Virtual Tabletop is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
 
