@@ -2,7 +2,7 @@
 
 
 
-This is a module for the FoundryVTT to import Draw Steel monsters from the MCDM Heroes pdf.
+This is a module for the FoundryVTT to import Draw Steel items from the MCDM Heroes pdf.
 
 
 
