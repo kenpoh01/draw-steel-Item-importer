@@ -1,8 +1,6 @@
-# Draw Steel Item Importer for Foundryvtt
+Draw Steel Item Importer for Foundryvtt
 
 
-
-<<<<<<< HEAD
 This is a module for the FoundryVTT to import Draw Steel Items from the MCDM Heroes pdf.
 
 Please note that A.I. in the form of Copilot and ChatGPT were used to help with the coding of this module.
