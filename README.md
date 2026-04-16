@@ -1,9 +1,10 @@
-Draw Steel Item Importer for Foundryvtt
+# Draw Steel Item Importer for Foundryvtt
 
 
-This is a module for the FoundryVTT to import Draw Steel Items from the MCDM Heroes pdf.
 
-Please note that A.I. in the form of Copilot and ChatGPT were used to help with the coding of this module.
+This is a module for the FoundryVTT to import Draw Steel monsters from the MCDM Heroes pdf.
+
+
 
 The Draw Steel System for Foundry Virtual Tabletop is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
 
@@ -17,7 +18,5 @@ When you go to the "Create Item" tab, there should be an "Import Draw Steel Item
 
 
 
-More functionality will be coming in the future, at the moment (see "not yet implemented" next to some choices)
-
-PLEASE NOTE: There are some limitations to how well the parser is able to differentiate splits between entries.  This is especially true with the leveled treasures at the moment.  You may need to either import some individually once you see which ones don't work well, deleting the wrongly created files.  You may also need to manually input some of the Details fields.
+More functionality will be coming in the future (please see the dropdown menu for which are active)
 
